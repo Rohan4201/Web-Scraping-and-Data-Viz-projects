@@ -7,6 +7,7 @@
 Naruto Shippuden is a famous anime popular in the youths all over the world. Set up in the ninja/shinobi world, this anime focuses on the story of an ambitious  shinobi Naruto Uzumaki, a citizen of Konohagakure, who dreams to be the Hokage of the village hoping that the villagers who had shunned him because of the demon fox spirit sealed inside him, would someday acknowledge him as the individual he is.
 
 
+This repository contains the web-scraped data, the code for web-scraping as a .Rmd file as well as in .pdf format.
 
 ### Content of data
 
