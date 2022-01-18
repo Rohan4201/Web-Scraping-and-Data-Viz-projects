@@ -20,7 +20,7 @@ The data consists of following columns:
 - *Directed by* : Director of the episode
 - *Written by* : Writer of the episode
 - *original_air _date* : The original Japanese air date of the episode
-- *english_air _date* : The English air date of the episode (Only available upto episode 370 since the English dub versions of episodes 371-500 were not aired at the time of data creation
+- *english_air _date* : The English air date of the episode (Only available upto episode 370 since the English dub versions of episodes 371-500 were not aired at the time of data creation)
 - *rating* : IMDb rating of each individual episode
 - *votes* : Number of votes on each episode on IMDb
 - *description* : Short description about the contents of the episode
