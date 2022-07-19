@@ -24,6 +24,7 @@ The data consists of following columns:
 - *rating* : IMDb rating of each individual episode
 - *votes* : Number of votes on each episode on IMDb
 - *description* : Short description about the contents of the episode
+- *type* : Type of episode (Filler/Manga Canon/Mixed Canon-Filler)
 
 ### Data sources
 
@@ -33,12 +34,14 @@ The data is obtained using web scraping from Wikipedia and IMDb website pages of
 
 [IMDb Naruto Shippuden webpage](https://www.imdb.com/title/tt0988824/)
 
+[Fiction Horizon web article  on Naruto Shippuden Filler episodes](https://fictionhorizon.com/naruto-naruto-shippuden-filler-list-the-complete-guide/)
+
 ### Arigatou gozaimasu (Thank you)
  
  <p align="center">
   <img src="https://cdn.vox-cdn.com/thumbor/UswYUb9Ve-sg9EN1f0KMAkOUizE=/0x0:1280x721/1200x800/filters:focal(544x281:748x485)/cdn.vox-cdn.com/uploads/chorus_image/image/70124512/naruto.0.jpg" width="370" height="300">
 </p>
  
-Data last updated on : **January 18, 2022**
+Data last updated on : **July 19, 2022**
 
 **PS: I also intend to create a few data visualizations from this data but cannot proceed forward with the plan due to some of my coursework. Rest assured few data visualisations for the dataset would soon be added to the repo**
