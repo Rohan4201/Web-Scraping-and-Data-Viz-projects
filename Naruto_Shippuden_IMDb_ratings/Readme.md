@@ -28,7 +28,7 @@ The data consists of following columns:
 
 ### Data sources
 
-The data is obtained using web scraping from Wikipedia and IMDb website pages of Naruto Shippuden as given below : 
+The data is obtained using web scraping from Wikipedia, IMDb website pages of Naruto Shippuden, and Fiction Horizon web article on filler episode list of Naruto Shippuden as given below : 
 
 [Wikipedia Naruto Shippuden episode list webpage](https://en.wikipedia.org/wiki/List_of_Naruto:_Shippuden_episodes)
 
